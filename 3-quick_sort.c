@@ -68,7 +68,8 @@ void lomuto_quick_sort(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort - Sorts an array of integers in ascending order using Quick sort
+ * quick_sort - Sorts an array of integers
+ * in ascending order using Quick sort
  * @array: The array to be sorted
  * @size: The size of the array
  */
