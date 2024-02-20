@@ -1,0 +1,3 @@
+O(n^2)  // Best case: When elements are randomly ordered and need multiple passes.
+O(n^2)  // Average case: When elements are randomly ordered and need multiple passes.
+O(n^2)  // Worst case: When elements are in reverse order and require maximum swaps.

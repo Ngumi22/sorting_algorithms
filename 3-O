@@ -1,0 +1,3 @@
+O(n log n)  // Best case: When the pivot divides the array into two equal halves.
+O(n log n)  // Average case: When the pivot divides the array reasonably well.
+O(n^2)      // Worst case: When the pivot consistently picks the smallest or largest element.

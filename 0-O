@@ -1,0 +1,3 @@
+O(n) // Best Case - When elements are already sorted
+O(n^2) // Average Case - When elements are randomly ordered
+O(n^2) // Worst Case - When elements require maximum number of swaps
